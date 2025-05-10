@@ -4,8 +4,8 @@ It Include all my personal Information
 Personal Informtion:-
 
 Name: Sunil Bajiya
-Degree: B.Tech in Artificial Intelligence and Data Science
-University: Rajasthan Technical University | Kota Rajasthan (2022–2026)
+Degree: B.Tech in Artificial Intelligence and Data Science 
+University: Rajasthan Technical University | Kota Rajasthan (2022–2026) 
 Location: Jaipur, Rajasthan
 Email: sunilkumarkr2008@gmail.com
 GitHub: https://github.com/SunilBajiya
